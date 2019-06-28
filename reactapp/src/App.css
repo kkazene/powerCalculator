@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Sans&display=swap');
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+}
+
+.content {
+  background-color: #ffffff;
+  padding: 40px 50px;
+  display: inline-block;
+  margin-top: 5%;
+  border: 5px solid #F3C435;
+}
